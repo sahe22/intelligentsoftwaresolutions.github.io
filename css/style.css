@@ -4146,7 +4146,7 @@ a.icon.gp {
 
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 
-body {padding-top:50px;}
+body {padding-top:0px;}
 
 .box {
     border-radius: 3px;
