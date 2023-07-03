@@ -5,6 +5,9 @@ font-family: 'Open Sans', sans-serif;
 	background:#ffffff;
 	margin:0px!important;
 }
+.logo {
+        max-width: 100px;
+      }
 p{
 	margin:0;
 	font-size:14px;
