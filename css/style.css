@@ -13,6 +13,7 @@ font-family: 'Open Sans', sans-serif;
 .logo img {
    /* Adjust the maximum width as per your requirement */
   height: auto;
+	max-width:100px;
 }
 
 .navbar-header {
