@@ -283,7 +283,7 @@ p.s-log {
     
     z-index: 1000;
     display: none;
-    float: right;
+    right: 0;
     min-width: 31px;
     padding: 5px 0;
     margin: 2px 0 0;
