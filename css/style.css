@@ -5,24 +5,6 @@ font-family: 'Open Sans', sans-serif;
 	background:#ffffff;
 	margin:0px!important;
 }
-.logo {
-  display: flex;
-  align-items: center;
-}
-
-.logo img {
-   /* Adjust the maximum width as per your requirement */
-  height: auto;
-	max-width:100px;
-}
-
-.navbar-header {
-  flex-grow: 1; /* Ensures the navbar header takes up remaining space */
-}
-
-.navbar-toggle {
-  order: -1; /* Moves the toggle button to the left */
-}
 
 
 p{
