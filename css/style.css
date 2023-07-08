@@ -3223,7 +3223,7 @@ a.icon.gp {
 	}
 	.navbar-toggle {
 		position: relative;
-		float: right;
+		float: left;
 		    padding: 14px 10px;
 		margin-top: 8px;
 		margin-right: 15px;
