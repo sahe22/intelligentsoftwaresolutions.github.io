@@ -3971,7 +3971,7 @@ a.icon.gp {
 	}
 	.navbar-toggle {
 		position: relative;
-		float: right;
+		float: left;
 		padding: 12px 8px;
 	}
 	.cd-search-trigger, .cd-nav-trigger {
