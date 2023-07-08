@@ -3146,7 +3146,7 @@ a.icon.gp {
 	}
 	.navbar-default .navbar-toggle {
 		border-color: #ff401b;
-		background: #ff401b;
+		background: black;
 		margin: 9px 10px 0 0px;
 	}
 	.navbar-default .navbar-toggle .icon-bar {
