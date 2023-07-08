@@ -280,7 +280,7 @@ p.s-log {
 .dropdown-menu {
         position: absolute;
     top: 185%;
-    left: -9px;
+    
     z-index: 1000;
     display: none;
     float: right;
