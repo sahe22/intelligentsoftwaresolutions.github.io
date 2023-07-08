@@ -11,14 +11,18 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .logo img {
-  max-width: 100%;
+  max-width: 100px; /* Adjust the maximum width as per your requirement */
   height: auto;
 }
 
-.header-w3-agileits h1 img {
-  max-width: 100%;
-  height: auto;
+.navbar-header {
+  flex-grow: 1; /* Ensures the navbar header takes up remaining space */
 }
+
+.navbar-toggle {
+  order: -1; /* Moves the toggle button to the left */
+}
+
 
 p{
 	margin:0;
