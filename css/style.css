@@ -5,11 +5,16 @@ font-family: 'Open Sans', sans-serif;
 	background:#ffffff;
 	margin:0px!important;
 }
-.header img {
-  float: left;
-  width: 100px;
-  height: 100px;
+.logo {
+  display: flex;
+  align-items: center;
 }
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+}
+
 .header-w3-agileits h1 img {
   max-width: 100%;
   height: auto;
